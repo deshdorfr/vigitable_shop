@@ -35,7 +35,7 @@ SECRET_KEY = 'django-insecure-c9*2bqdl+^*j@53h-6hgeu2sw4j!o(_e&ymu=0#8w%ewsc^p#t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["vegishop.pythonanywhere.com", '*']
 
 
 # Application definition
